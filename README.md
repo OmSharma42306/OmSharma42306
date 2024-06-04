@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmSharma42306
+- 👋 Hi, I’m Om Sharma
 - 👀 I’m interested in AI, software development, and open-source projects.
 - 🌱 I’m currently learning the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 - 💞️ I’m looking to collaborate on projects involving AI, web development, and open-source initiatives.
